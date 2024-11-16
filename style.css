@@ -27,6 +27,7 @@
 
 .ph{
     background-color: #e6eef1;
+    padding-top: 108px;
 
 }
 
@@ -55,7 +56,9 @@
         /*about section*/
 
 .about{
-
+    background-color: #cf1717;
+    padding-top: 108px;
+      
     
     .h{
         display: flex;
@@ -68,6 +71,7 @@
 
     /*My Portfolio section*/
 .portfolio{
+    padding-top: 108px;
     .card{
         background-color: #ffffff;
     }
@@ -112,6 +116,7 @@
     /*Customar testimonials section*/
     .Customar{
         background-color: #F5FCFF;
+        padding-top: 108px !important;
         .card{
             border: 2px solid #5BA1A1;
         }
@@ -131,7 +136,8 @@
 
 
 
- .from{
+ .frome{
+    padding-top: 108px !important;
     .form-control{
         border: 2px solid #C2B6F8;
     }
